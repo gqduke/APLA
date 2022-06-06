@@ -1,1 +1,1 @@
-# CAPT
+# Placeholder for paper CAPT
