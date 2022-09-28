@@ -1,1 +1,1 @@
-# Placeholder for paper "CAC: Class-Aware Calculation for Class-imbalanced Semi-supervised Learning."
+# Placeholder for paper "APLA: Class-imbalanced Semi-supervised Learning with Adapative Pseudo-labeling and Loss Adjustment."
